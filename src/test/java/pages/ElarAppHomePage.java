@@ -18,4 +18,7 @@ public class ElarAppHomePage {
     @FindBy(xpath = "//a[@href='#/panel/yards/']")
     public WebElement yardsTab;
 
+    @FindBy(xpath = "//a[@href='#/panel/yards/']")
+    public WebElement yardsTab2;
+
 }
